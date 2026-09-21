@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Universidad_EAFIT- Medellín,_Colombia-0A0A0A?style=for-the-badge&logoColor=white" alt="EAFIT" />
   <img src="https://img.shields.io/badge/Status-Octavo_Semestre-1E1E1E?style=for-the-badge&logoColor=white" alt="Semester" />
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_Distributed_Systems-2D2D2D?style=for-the-badge&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack_%26_IA-2D2D2D?style=for-the-badge&logoColor=white" alt="Focus" />
 </p>
 
 <p align="center">
