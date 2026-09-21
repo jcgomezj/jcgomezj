@@ -1,7 +1,7 @@
 <div align="center">
 
 # Juan Camilo Gómez Jiménez
-### **Ingeniería de Sistemas | Software & Backend Architecture**
+### **Ingeniero de Sistemas | Software & Backend Architecture**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Universidad_EAFIT- Medellín,_Colombia-0A0A0A?style=for-the-badge&logoColor=white" alt="EAFIT" />
